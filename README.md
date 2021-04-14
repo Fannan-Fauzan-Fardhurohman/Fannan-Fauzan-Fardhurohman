@@ -6,4 +6,4 @@ I am Fannan Fauzan Fardhurohman, Android Enthusiast 📱
 ![Fannan Fauzan Fardhurohman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fannan-Fauzan-Fardhurohman&show_icons=true&theme=radical)
 
 ## Top Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fannan-Fauzan-Fardhurohman)](https://github.com/Fannan-Fauzan-Fardhurohman/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannan-fauzan-fardhurohman&show_icons=true&theme=radical)
