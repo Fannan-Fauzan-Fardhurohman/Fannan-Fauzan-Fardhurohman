@@ -18,7 +18,7 @@ I am, Fannan Fauzan Fardhurohman
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fannan-fauzan-fardhurohman&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fannan-fauzan-fardhurohman&theme=dark&layout=compact&exclude_lang=java+r)<br/>
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
