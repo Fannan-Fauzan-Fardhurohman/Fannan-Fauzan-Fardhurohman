@@ -4,7 +4,7 @@ I am, Fannan Fauzan Fardhurohman
 
 
 # 💫 About Me:
-🤔 I'm Currently focusing on mobile development.<br>🧑🏻‍💻 I’m currently working at Dwidasa Samsara Indonesia As Back End Developer
+🤔 I'm Currently focusing on Back End Development.<br>🧑🏻‍💻 I’m currently working at Dwidasa Samsara Indonesia As Back End Developer
 
 
 ## 🌐 Socials:
